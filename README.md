@@ -1,1 +1,1 @@
-# Projekt-SQL
+Dobrý den, aktuálně zpracovávám projekt od společnosti Engeto, který se specializuje na průzkum dat v oblasti potravinářství a mezd v letech 2006 až 2018 v České republice. Získávám jednotlivé návaznosti a informace z dat a zároveň se zabývám historickým vývojem HDP v EU a jeho vlivem na vývoj cen potravin a mezd v ČR. Celý projekt je uspořádán v 7 skriptech, z nichž 2 jsou pouze skripta generující tabulku.
